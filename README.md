@@ -166,5 +166,17 @@ AI Tool for Content writing
 
 GraphGPT converts text to knowledge graphs
 
+#Video tools
 
+**https://invideo.io/**
+
+InVideo simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before.
+
+**https://descript.com/**
+
+Descript is the only tool you need to write, record, transcribe, edit, collaborate, and share your videos and podcasts
+
+**https://jitter.video/**
+
+Jitter enables creators and teams to easily design stunning animated content and interfaces
 **TO Be Contd...**
