@@ -179,4 +179,6 @@ Descript is the only tool you need to write, record, transcribe, edit, collabora
 **https://jitter.video/**
 
 Jitter enables creators and teams to easily design stunning animated content and interfaces
+
+
 **TO Be Contd...**
